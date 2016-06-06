@@ -1,4 +1,4 @@
-ShutDone a simple OS X app that turns on iGetter (v2.9.4+) "Shut Down When Done" Tools menu command. App works in background and waits for a system notification that iGetter is started, then it just clicks on the iGetter Tools menu command through an AppleScript.
+**ShutDone** a simple OS X app that turns on iGetter (v2.9.4+) "Shut Down When Done" Tools menu command. App works in background and waits for a system notification that iGetter is started, then it just clicks on the iGetter Tools menu command through an AppleScript.
 
 Here is what you need:
 
