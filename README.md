@@ -10,7 +10,7 @@ Here is what you need:
 
 4. Open your Downloads folder and control-click (right click) on the ShutDone app, then select the "Open" contextual menu command. (This step is necessary, because the app is not signed with an Apple Developer certificate.)
 
-5. Log Out and Login your system. Now when you start iGetter, its "Shut Down When Done" command should be on (after some delay until iGetter enables its Tools menu). You can replace "Shut Down" function with "Sleep" or "Quit iGetter" at iGetter preferences, Advanced Panel.
+5. Now when you start iGetter, its "Shut Down When Done" command should be on (after some delay until iGetter enables its Tools menu). You can replace "Shut Down" function with "Sleep" or "Quit iGetter" at iGetter preferences, Advanced Panel.
 
 To remove this app, Open System Preferences > Users & Groups > Login Items tab. Click on the "-" button to remove ShutDone app from the Login Items. Then Log Out and Login your system.
 
