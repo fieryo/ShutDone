@@ -17,5 +17,5 @@ To remove this app, Open System Preferences > Users & Groups > Login Items tab. 
 <p><b>System Requirements</b></p>
 <ul>
 <li>Mac OS X v10.6 (Snow Leopard) - 10.11 (El Capitan); Intel Mac</li>
-<li>Project is created with Xcode v3.2.6 (OS X 10.6)</li>
+<li>Project is created with Xcode v3.2.6 (OS X 10.6). If you use a newer Xcode, change the SDK to the latest version (i.e. 10.11) in Project settings.</li>
 </ul>
