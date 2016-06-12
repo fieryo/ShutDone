@@ -35,7 +35,6 @@
 		NSAppleScript* scriptObject = [[NSAppleScript alloc] initWithSource:@"\n\
 		tell application \"System Events\"\n\
 		tell process \"iGetter\"\n\
-		activate\n\
 		set sdwdMenuItem to menu item 7 of menu 1 of menu bar item 6 of menu bar 1\n\
 		repeat until (enabled of sdwdMenuItem)\n\
 		end repeat\n\
